@@ -35,7 +35,9 @@ Key visualizations include:
 
 This dashboard enables users to explore streaming patterns, top songs, and audio characteristics to better understand trends in Spotify music consumption.
 
-Tools/Platforms: Tableau Public 2024.3.0, Microsoft Excel, Microsoft Powerpoint
+Tools and Technologies Used:
+
+Tableau Public 2024.3.0, Microsoft Excel, Microsoft Powerpoint, Data Visualization, Data Filtering and Sorting, Interactive Dashboard Development
 
 Project - 3 - Youtube Global Data Analysis
 
@@ -50,4 +52,29 @@ This interactive dashboard provides detailed insights into YouTube channel perfo
 
 This dashboard provides a comprehensive view of YouTube analytics, helping users track content performance, creator demographics, and financial metrics across various regions.
 
-Tools/Platforms: Tableau Public 2024.3.0, Microsoft Excel, Microsoft Powerpoint
+Tools and Technologies Used:
+
+Tableau Public 2024.3.0, Microsoft Excel, Microsoft Powerpoint, Data Visualization, Data Filtering and Sorting, Interactive Dashboard Development
+
+Project - 4 - Covid-19 Performance Analysis
+
+Objective:
+Developed an interactive dashboard in Tableau to assist decision-makers in selecting individual states or Union Territories (UTs) to assess their Covid-19 pandemic handling effectiveness. The analysis focused on comparing states based on confirmed percentage, decreased percentage, and recovered percentage to evaluate their recovery performance and overall management.
+
+Key Features and Deliverables:
+
+Top 10 States by Recovery Performance (Bar Chart):
+Designed a bar chart displaying the top 10 states based on recovery rates, sorted in descending order, helping users identify which states performed best in terms of recovery.
+
+Top 5 States for Recovery Performance (Pie Chart):
+Created a pie chart that highlights the top 5 states with the highest recovery rates, providing a quick visual representation of the leading states in pandemic recovery.
+
+Performance Over Time (Line-Bar Combo Chart):
+Developed a combined line and bar chart showing Confirmed Percentage as a column (bar) chart and Recovered Percentage as a line chart over time. This chart only displays data for states with strong recovery performance, offering insight into recovery trends in comparison to confirmed cases across various time periods.
+
+Tools and Technologies Used:
+
+Tableau Public 2024.3.0, Microsoft Excel, Microsoft Powerpoint, Data Visualization, Data Filtering and Sorting, Interactive Dashboard Development
+
+Outcome:
+This Tableau dashboard provides a comprehensive visual analysis of Covid-19 recovery performance, enabling stakeholders to make data-driven decisions based on real-time comparisons and trends. It offers a clear view of the best-performing states and enables users to dive deeper into detailed recovery statistics for further insights.
